@@ -1,2 +1,1 @@
-# Krishak
-This is our final year project
+Major Project
